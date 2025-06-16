@@ -1,0 +1,4 @@
+[submodule "vendors/sdl/sdl3"]
+	path = vendors/sdl/sdl3
+	url = https://github.com/libsdl-org/SDL.git
+	
